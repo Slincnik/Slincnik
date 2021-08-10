@@ -4,9 +4,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="idk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="idk | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="idk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="idk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="idk | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/vk.svg" />][vk]
+[<img align="left" alt="idk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/instagram.svg" />][instagram]
 
 <br />
 
