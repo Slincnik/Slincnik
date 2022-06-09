@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniil 👋
 
-## I'm a Backend developer
+## I'm a Frontend/Backend developer
 
 ### Connect with me:
 
