@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="idk | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/blue" />][twitter]
-[<img align="left" alt="idk | VK" width="22px" src="https://cdn.simpleicons.org/vk/blue" />][vk]
+[<img align="left" alt="idk | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="idk | VK" width="22px" src="https://cdn.simpleicons.org/vk" />][vk]
 [<img align="left" alt="idk | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram" />][telegram]
 
 <br />
@@ -27,5 +27,5 @@
 </details>
 
 [twitter]: https://twitter.com/slincnik_off
-[instagram]: https://www.instagram.com/_slincnik_/
 [vk]: https://vk.com/slincnik
+[telegram]: https://t.me/slincnik
