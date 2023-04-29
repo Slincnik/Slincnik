@@ -15,7 +15,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript" />
 <img align="left" alt="Vue" width="26px" src="https://cdn.simpleicons.org/vuedotjs" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.simpleicons.org/vuedotjs" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.simpleicons.org/nodedotjs" />
 <img align="left" alt="Git" width="26px" src="https://cdn.simpleicons.org/git" />
 
 <br />
