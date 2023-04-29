@@ -1,12 +1,12 @@
 ### Hi there, I'm Daniil 👋
 
-## I'm a Frontend/Backend developer
+## I'm a Frontend developer
 
 ### Connect with me:
 
 [<img align="left" alt="idk | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/blue" />][twitter]
 [<img align="left" alt="idk | VK" width="22px" src="https://cdn.simpleicons.org/vk/blue" />][vk]
-[<img align="left" alt="idk | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
+[<img align="left" alt="idk | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram" />][telegram]
 
 <br />
 
