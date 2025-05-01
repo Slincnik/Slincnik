@@ -20,7 +20,7 @@
 
 ### Pet-project:
 1. https://github.com/Slincnik/VGTU-UI
-2. https://github.com/MisthTeam/inventory_vue
+2. https://github.com/MisthTeam/inventory_vue - [Click to view site 🤖](https://misthteam.github.io/inventory_vue/)
 3. https://github.com/Slincnik/StarcheeDocker
 
 <details>
