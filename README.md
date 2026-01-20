@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniil 👋
 
-## I'm a Frontend developer
+## Frontend developer
 
 ### Connect with me:
 
